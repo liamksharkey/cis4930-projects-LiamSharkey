@@ -63,13 +63,6 @@ def games_delete(request, pk):
 FIGURE_DIR = os.path.join(settings.MEDIA_ROOT, 'figures')
 if not os.path.exists(FIGURE_DIR):
     os.makedirs(FIGURE_DIR)
-   
-
-def games_analytics(request):
-        from django.shortcuts import render
-import json
-import pandas as pd
-from .models import Game
 
 
 def games_analytics(request):

@@ -21,5 +21,10 @@ https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
         -py manage.py runserver
 -Open the url that the runserver command gives you in your browser of choice
 
+If you're running through a local server I suggest changing to the dev settings. If you attempt to use https and then change to http, you'll have to clear your browser cache.
+
 ## Screenshots
 ![Image](media/screenshots/0Errors.png)
+![Image](media/screenshots/games_home.png)
+![Image](media/screenshots/games_detail.png)
+![Image](media/screenshots/games_edit.png)
