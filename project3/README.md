@@ -22,4 +22,4 @@ https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
 -Open the url that the runserver command gives you in your browser of choice
 
 ## Screenshots
-![Image](screenshots/0Errors.png)
+![Image](media/screenshots/0Errors.png)
