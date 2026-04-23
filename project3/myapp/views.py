@@ -3,7 +3,7 @@ from django.shortcuts import render, get_object_or_404, redirect
 from django.core.paginator import Paginator
 from django.contrib import messages
 import pandas as pd
-from project3 import settings
+from django.conf import settings
 from .forms import GameForm
 from .models import Game
 import json
